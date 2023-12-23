@@ -1,0 +1,26 @@
+.container {
+  background: #1b244a;
+}
+
+img {
+  width: 300px;
+  padding: 2rem;
+}
+
+.board-title-home {
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 2.5rem;
+  font-style: normal;
+  line-height: 2.5rem;
+}
+
+.home-score {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
